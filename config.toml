@@ -1,9 +1,9 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "A minimal Hugo website"
+title = "hello world"
 theme = "hugo-xmin"
 googleAnalytics = ""
-disqusShortname = ""
+disqusShortname = "tanya_murphy"
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
 footnotereturnlinkcontents = "↩"
@@ -31,9 +31,12 @@ publishDir = "docs"
     url = "/tags/"
     weight = 4
 [[menu.main]]
-    name = "Subscribe"
-    url = "/index.xml"
+    name = "My professional site (coming soon)"
+    url = "https://tanyamurphy.github.io/epi-notebook/"
+    weight = 5
+
 
 [params]
-    description = "A website built through Hugo and blogdown."
-    footer = "&copy; [Yihui Xie](https://yihui.name) 2017 | [Github](https://github.com/yihui) | [Twitter](https://twitter.com/xieyihui)"
+    description = "Learning coding with my kids as well as for web apps for data science."
+    author = "Tanya Murphy"
+    footer = "&copy; Tanya Murphy 2017 | Website created with [R's Blogdown](https://bookdown.org/yihui/blogdown/) and [Hugo](https://bookdown.org/yihui/blogdown/) Theme adapted from [XMin by Yihui Xie](https://github.com/yihui/hugo-xmin)"

@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/note/2017/06/14/another-note/</loc>
-    <lastmod>2017-06-14T00:00:00+00:00</lastmod>
+    <loc>/post/2017/07/28/khan-academy-s-computer-programming-lessons/</loc>
+    <lastmod>2017-07-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/note/2017/06/13/a-quick-note/</loc>
+    <loc>/note/2017/06/13/beautiful-static-websites/</loc>
     <lastmod>2017-06-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -44,18 +44,24 @@
   
   <url>
     <loc>/categories/example/</loc>
-    <lastmod>2017-06-14T00:00:00+00:00</lastmod>
+    <lastmod>2017-06-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2017-06-14T00:00:00+00:00</lastmod>
+    <lastmod>2017-07-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/hugo/</loc>
     <lastmod>2016-02-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/khan-academy/</loc>
+    <lastmod>2017-07-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -73,7 +79,7 @@
   
   <url>
     <loc>/note/</loc>
-    <lastmod>2017-06-14T00:00:00+00:00</lastmod>
+    <lastmod>2017-06-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -91,7 +97,7 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2016-02-14T00:00:00+00:00</lastmod>
+    <lastmod>2017-07-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -120,14 +126,14 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2016-02-14T00:00:00+00:00</lastmod>
+    <loc>/categories/resources/</loc>
+    <lastmod>2017-07-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/tutorial/</loc>
-    <lastmod>2017-06-14T00:00:00+00:00</lastmod>
+    <loc>/tags/</loc>
+    <lastmod>2016-02-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
